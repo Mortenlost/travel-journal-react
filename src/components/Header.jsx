@@ -5,7 +5,7 @@ export default function Header(){
     return(
         <header>
             <BiWorld className="world-logo"/>
-            <h1 className="header-title">my travel journal</h1>
+            <h1 className="header-title">My travel journal</h1>
         </header>
     )
 }
